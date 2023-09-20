@@ -1,7 +1,11 @@
 The app works well. Currently have 3 window cleaners using it and i am starting my own round on it aswell.
+
 Any contribution will be rewarded with a constant percentage of any future profits(to be negotiated before work is started and based on work done)
+
+
 I cover all server costs so there are no costs to you other than any free time you might have. After all winter is coming.
 
+<b>TODO</b>
 
 PRIORITY: need a website being properly made to advertise it again i will host it on my AWS account at my own expense 
 
