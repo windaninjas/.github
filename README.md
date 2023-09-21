@@ -1,6 +1,6 @@
 The app works well. Currently have 3 window cleaners using it and i am starting my own round on it aswell.
 
-<b>Live Features</>
+<b>Live Features</b>
 <ul>
   <li>
     Live map routing to jobs
