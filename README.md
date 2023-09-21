@@ -1,4 +1,4 @@
-The app works well. Currently have 3 window cleaners using it paying £6.99 a month (this currently covers server/equipment costs) and i am starting my own round on it aswell.
+The app works well. Currently have 3 window cleaners using it paying £6.99 a month (this currently covers server, ddns and equipment costs) and i am starting my own round on it aswell.
 
 <b>Live Features</b>
 <ul>
