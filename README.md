@@ -17,6 +17,9 @@ The app works well. Currently have 3 window cleaners using it paying £6.99 a mo
   <li>
     Collect Mode
   </li>
+  <li>
+   Auto PDF Invoice Creation
+  </li>
 </ul>
 
 <b>Any contribution will be rewarded with a constant percentage of any future profits(to be negotiated before work is started and based on work done)</b>
